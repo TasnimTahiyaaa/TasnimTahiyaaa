@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="YOUR_PIXEL_GIF_URL" width="100%"/>
 
-<br>
+
 
 <h1>✦ Hi, I'm Tahiya ✦</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;CSE+Student+%F0%9F%92%BB;learning+%26+building+cool+things+%F0%9F%8C%B7;Machine+Learning+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%80"/>
 
 </div>
 <div align="center">
@@ -19,7 +16,7 @@
 
 <!-- ✨ TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;CSE+Student+%F0%9F%92%BB;learning+%26+building+cool+things+%F0%9F%8C%B7;Machine+Learning+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%80;turning+coffee+into+code+%E2%98%95%F0%9F%92%9C" />
+font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;CSE+Student+%F0%9F%92%BB;learning+%26+building+cool+things+%F0%9F%8C%B7;Machine+Learning+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%80;turning+coffee+into+code+%E2%98%95%F0%9F%92%9C" />
 
 <br><br>
 
