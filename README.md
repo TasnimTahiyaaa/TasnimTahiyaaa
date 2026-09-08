@@ -1,189 +1,171 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
 
+# ˚₊‧꒰ა **Hi, I'm Tahiya!** ໒꒱ ‧₊˚
 
+### 🎀 CSE Student • Developer • ML & Computer Vision Enthusiast 🎀
 
-<h1>✦ Hi, I'm Tahiya ✦</h1>
-
-</div>
-<div align="center">
-
-<!-- 🌙 PIXEL ART HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Hi%2C%20I'm%20Tahiya&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20ML%20%26%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;CSE+Student+%F0%9F%92%BB;Learning+%26+building+cool+things+%F0%9F%8C%B7;Machine+Learning+%F0%9F%A4%96+%7C+Computer+Vision+%F0%9F%91%80;Turning+coffee+into+code+%E2%98%95%F0%9F%92%9C" alt="Typing SVG" />
 
 <br>
 
-<!-- ✨ TYPING -->
-
-font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;CSE+Student+%F0%9F%92%BB;learning+%26+building+cool+things+%F0%9F%8C%B7;Machine+Learning+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%80;turning+coffee+into+code+%E2%98%95%F0%9F%92%9C" />
-
-<br><br>
-
-<!-- 💜 BADGES -->
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=C77DFF&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=9D4EDD&labelColor=1a1028&label=FOLLOWERS"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=C77DFF&labelColor=1a1028&label=STARS"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=C77DFF\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-<!-- 🌸 ABOUT + CURRENTLY -->
+## 🌷 About Me
 
 <table>
 <tr>
+<td width="55%">
 
-<td width="50%" valign="top">
+```text
+╭──────────────────────────────────────╮
+│  🌸 a little about me               │
+│                                      │
+│  🎓 CSE Student                     │
+│  💻 Love building things            │
+│  🤖 ML & Computer Vision            │
+│  🧠 Always learning something new   │
+│  🎮 Gamer at heart                  │
+│  🌙 Powered by late-night ideas     │
+│  ✨ Trying to make cool things      │
+╰──────────────────────────────────────╯
+```
 
-<h2 align="center">╭・🌸 ABOUT ME ・╮</h2>
+I'm a **Computer Science & Engineering student** who enjoys learning by actually building things.
 
-<p align="center">
+I'm currently exploring **Machine Learning, Computer Vision, C#, .NET, MVC and software development** while working on university projects and personal projects. 💜
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
-
-</p>
-
-I'm a **Computer Science & Engineering student** who enjoys learning by building things.
-
-I love exploring new technologies and turning random ideas into actual projects. 💜
-
-<br>
-
-🌸 CSE Student  
-💻 Software Development  
-🤖 Machine Learning  
-👀 Computer Vision  
-🎮 Gamer at heart  
-🌙 Night-time coding  
-☕ Powered by coffee  
-✨ Always learning  
-
-<br>
-
-> *small progress is still progress* 🌷
+I like turning random ideas into something that actually works. Sometimes it works on the first try... sometimes we don't talk about that. 🥲
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" align="center">
 
-<h2 align="center">╭・🌱 CURRENTLY ・╮</h2>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
 
-<br>
+### 🌸 Currently
 
-🌱 Learning **C# & .NET**
-
-<br>
+🌱 Learning **.NET & C#**
 
 🤖 Exploring **Machine Learning**
 
-<br>
-
-👀 Diving into **Computer Vision**
-
-<br>
+👀 Exploring **Computer Vision**
 
 💻 Building **MVC Projects**
 
-<br>
+📚 Studying & surviving university
 
-🗄️ Working with **SQL**
-
-<br>
-
-📚 Surviving university
-
-<br>
-
-🎧 Coding with lo-fi
-
-<br><br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-
-</div>
+☕ Drinking imaginary coffee
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<!-- 🛠️ TECH STACK -->
+## 💜 My Tech Garden
 
-<h2 align="center">
+### 🌸 Languages
 
-✦・ﾟ🌷 TECH STACK 🌷ﾟ・✦
-
-</h2>
-
-<div align="center">
-
-### 💻 Languages
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css" />
 
-<br><br>
+</p>
 
-### 🧰 Frameworks & Tools
+### 🛠️ Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=dotnet,bootstrap,mysql,git,github,vscode,visualstudio,postman" />
+<p align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap,mysql,git,github,vscode,visualstudio" />
+
+</p>
 
 ### 🤖 Areas I'm Exploring
 
-<img src="https://img.shields.io/badge/Machine%20Learning-C77DFF?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-9D4EDD?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Development-BB86FC?style=for-the-badge&logo=html5&logoColor=white"/>
+<p align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-C77DFF?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9D4EDD?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-BB86FC?style=for-the-badge\&logo=html5\&logoColor=white)
+
+</p>
+
+---
+
+## 🎀 My Little Coding Philosophy
+
+<div align="center">
+
+> 🌷 *"Build something. Break something. Learn something. Repeat."* 🌷
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=600&lines=Debugging+is+just+detective+work+with+more+errors+%F0%9F%95%B5%EF%B8%8F;One+bug+at+a+time+%F0%9F%90%9B%E2%9C%A8;Learning+never+ends+%F0%9F%8C%B1;Small+progress+is+still+progress+%F0%9F%92%9C" />
 
 </div>
 
 ---
 
-<!-- 📊 GITHUB STATS -->
-
-<h2 align="center">
-
-✦・ﾟ🌙 GITHUB GARDEN 🌙ﾟ・✦
-
-</h2>
+## 🌸 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### 💜 GitHub Stats
+### 📝 Task Management System
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&rank_icon=github"/>
+A C# MVC-based task management application for creating, organizing and tracking tasks.
 
-</td>
+**Tech:** `C#` `ASP.NET MVC` `SQL`
 
-<td width="33%" align="center">
-
-### 🌷 Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15"/>
+🌷 *One task at a time.*
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### ✨ Streak
+### 🚧 Road Damage Detection
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&border_radius=15"/>
+Computer Vision project focused on detecting road damage using deep learning and object detection.
+
+**Tech:** `Python` `YOLO` `Computer Vision`
+
+👀 *Teaching computers to see.*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🍽️ Restaurant Management System
+
+A database-driven system for managing restaurant operations, customers, orders, payments and reviews.
+
+**Tech:** `PHP` `MySQL` `HTML` `CSS`
+
+🍰 *Serving databases instead of food.*
+
+</td>
+
+<td width="50%" align="center">
+
+### 💊 Pharmacy Management System
+
+A management system for handling medicine inventory, orders and pharmacy-related operations.
+
+**Tech:** `PHP` `MySQL` `HTML` `CSS`
+
+💜 *Organizing everything one table at a time.*
 
 </td>
 
@@ -192,202 +174,98 @@ I love exploring new technologies and turning random ideas into actual projects.
 
 ---
 
-<!-- 🌸 CONTRIBUTION GRAPH -->
-
-<h2 align="center">
-
-🌸・ﾟ✧ CONTRIBUTIONS ✧ﾟ・🌸
-
-</h2>
+## 📊 GitHub Garden
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0717&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true" width="95%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=15&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&border_radius=15" />
 
 </div>
 
 ---
 
-<!-- 🎀 PROJECTS -->
-
-<h2 align="center">
-
-🎀・ﾟ✧ FEATURED PROJECTS ✧ﾟ・🎀
-
-</h2>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<h3>📝 Task Management System</h3>
-
-<p>
-A C# MVC application for managing tasks,
-deadlines and productivity.
-</p>
-
-<img src="https://img.shields.io/badge/C%23-9D4EDD?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/MVC-C77DFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-7B2CBF?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME/task-management-system">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-💜-C77DFF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🚧 Road Damage Detection</h3>
-
-<p>
-Computer Vision project using deep learning
-to detect road damage.
-</p>
-
-<img src="https://img.shields.io/badge/Python-C77DFF?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-9D4EDD?style=flat-square"/>
-<img src="https://img.shields.io/badge/CV-7B2CBF?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME/road-damage-detection">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-💜-9D4EDD?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🍽️ Restaurant Management</h3>
-
-<p>
-Database-driven restaurant management
-system with orders and payments.
-</p>
-
-<img src="https://img.shields.io/badge/PHP-C77DFF?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-9D4EDD?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-7B2CBF?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME/restaurant-management">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-💜-C77DFF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>💊 Pharmacy Management</h3>
-
-<p>
-Pharmacy system for managing medicine
-inventory, orders and payments.
-</p>
-
-<img src="https://img.shields.io/badge/PHP-C77DFF?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-9D4EDD?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-7B2CBF?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME/pharmacy-management">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-💜-9D4EDD?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- 🌱 LEARNING -->
-
-<h2 align="center">
-
-🌱・ﾟ✧ MY LEARNING GARDEN ✧ﾟ・🌱
-
-</h2>
+## 🐍 My Contributions
 
 <div align="center">
 
-| 🌷 Learning | 💜 Progress |
-|:---:|:---:|
-| C# & .NET | 🌱🌱🌱 |
-| ASP.NET MVC | 🌱🌱🌱 |
-| SQL & Databases | 🌱🌱🌱🌱 |
-| Machine Learning | 🌱🌱 |
-| Computer Vision | 🌱🌱 |
-| Deep Learning | 🌱🌱 |
-| Git & GitHub | 🌱🌱🌱🌱 |
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+> 💜 *If the snake isn't showing, don't panic! You need to set up the GitHub Actions workflow for it first.*
+
+---
+
+## 🌱 Currently Growing
+
+| 🌷 Learning      | 💜 Status |
+| :--------------- | :-------: |
+| C# & .NET        |   🌱🌱🌱  |
+| ASP.NET MVC      |   🌱🌱🌱  |
+| SQL & Databases  |  🌱🌱🌱🌱 |
+| Machine Learning |    🌱🌱   |
+| Computer Vision  |    🌱🌱   |
+| Deep Learning    |    🌱🌱   |
+| Git & GitHub     |  🌱🌱🌱🌱 |
+
+---
+
+## 🎮 Outside the Code
+
+<div align="center">
+
+🎮 **Gaming**   •  
+🌸 **Anime**   •  
+🍳 **Cooking**   •  
+🎧 **Music**   •  
+📚 **Learning**
+
+<br><br>
+
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250">
 
 </div>
 
 ---
 
-<!-- 🐍 SNAKE -->
-
-<h2 align="center">
-
-🐰・ﾟ✧ MY CONTRIBUTION PET ✧ﾟ・🐰
-
-</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="90%"/>
-
-</div>
-
----
-
-<!-- 💌 CONNECT -->
-
-<h2 align="center">
-
-💌・ﾟ✧ LET'S CONNECT ✧ﾟ・💌
-
-</h2>
+## 💌 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="180"/>
+### ˚₊‧꒰ა 💜 ໒꒱ ‧₊˚
 
-### 💜 Thanks for visiting my little corner of GitHub!
-
-*keep learning • keep building • keep growing* 🌷
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=17&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%8C%B7;Have+a+lovely+day!+%F0%9F%92%9C;Keep+coding+%26+keep+growing+%E2%9C%A8" />
 
 <br>
 
-**made with 💜 + ☕ + questionable amounts of debugging**
+**made with 💜, ☕ & a questionable amount of debugging**
 
 </div>
