@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5OXk2OTdoN3Ewbmt6bGFrcWs5ZGYyYjIwaXlwMzhsNWNhbG11cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="90">
 
-# ˚₊‧꒰ა **Hi, I'm Tahiya!** ໒꒱ ‧₊˚
+# ˚₊‧꒰ა **Assalamu Walaikum, I'm Tahiya Tasnim!** ໒꒱ ‧₊˚
 
 ### 🎀 CSE Student • Developer • ML & Computer Vision Enthusiast 🎀
 
@@ -47,7 +47,7 @@ I like turning random ideas into something that actually works. Sometimes it wor
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I4bThhbmgzZjF5YngzaGFncDVmY2YyejRsb3hlZnFpZnN0OTh0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aZX07zGQryOmnA6Oi8/giphy.gif" width="250">
 
 ### 🌸 Currently
 
@@ -178,9 +178,9 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=15&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TasnimTahiyaaa&show_icons=true&theme=radical&hide_border=true&border_radius=15&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimTahiyaaa&layout=compact&theme=radical&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -188,7 +188,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=TasnimTahiyaaa&theme=midnight-purple&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -198,7 +198,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/TasnimTahiyaaa/TasnimTahiyaaa/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -232,7 +232,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <br><br>
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250">
+<img src="https://tenor.com/dzYqt6neJCh.gif" width="250">
 
 </div>
 
