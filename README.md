@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5OXk2OTdoN3Ewbmt6bGFrcWs5ZGYyYjIwaXlwMzhsNWNhbG11cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5OXk2OTdoN3Ewbmt6bGFrcWs5ZGYyYjIwaXlwMzhsNWNhbG11cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="100">
 
 # ˚₊‧꒰ა **Assalamu Walaikum, I'm Tahiya Tasnim!** ໒꒱ ‧₊˚
 
@@ -232,7 +232,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <br><br>
 
-<img src="https://tenor.com/dzYqt6neJCh.gif" width="250">
+<img src="https://giphy.com/gifs/cat-kisses-hugs-MDJ9IbxxvDUQM" width="250">
 
 </div>
 
