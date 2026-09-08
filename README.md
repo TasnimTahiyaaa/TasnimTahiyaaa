@@ -10,8 +10,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=C77DFF\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TasnimTahiyaaa)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=C77DFF\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/TasnimTahiyaaa)
 
 </div>
 
@@ -242,15 +242,15 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/TasnimTahiyaaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tahiya-tasnim-a611a1373/">
 <img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:tahiyatasnim098@gmail.com">
 <img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
