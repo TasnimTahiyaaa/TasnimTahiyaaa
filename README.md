@@ -220,19 +220,19 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 ---
 
-## 🎮 Outside the Code
+🎮 Outside the Code
 
 <div align="center">
 
-🎮 **Gaming**   •  
-🌸 **Anime**   •  
-🍳 **Cooking**   •  
-🎧 **Music**   •  
-📚 **Learning**
+🎮 Gaming   •  
+🌸 Anime   •  
+🍳 Cooking   •  
+🎧 Music   •  
+📚 Learning
 
 <br><br>
 
-<img src="https://giphy.com/gifs/cat-kisses-hugs-MDJ9IbxxvDUQM" width="250">
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250">
 
 </div>
 
