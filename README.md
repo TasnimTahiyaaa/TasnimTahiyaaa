@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5OXk2OTdoN3Ewbmt6bGFrcWs5ZGYyYjIwaXlwMzhsNWNhbG11cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="90">
 
 # ˚₊‧꒰ა **Hi, I'm Tahiya!** ໒꒱ ‧₊˚
 
