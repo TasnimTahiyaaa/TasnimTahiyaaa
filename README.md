@@ -211,7 +211,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <div align="center">
 
-🎮 Gaming       🌸 Anime       🍳 Cooking     🎧 Music       📚 Learning
+🎮 Gaming       🌸 Anime       🍳 Cooking     🎧 Sleeping       📚 Learning
 
 <br><br>
 
