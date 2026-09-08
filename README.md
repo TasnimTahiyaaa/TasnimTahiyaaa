@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5OXk2OTdoN3Ewbmt6bGFrcWs5ZGYyYjIwaXlwMzhsNWNhbG11cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5OXk2OTdoN3Ewbmt6bGFrcWs5ZGYyYjIwaXlwMzhsNWNhbG11cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="200">
 
 # ˚₊‧꒰ა **Assalamu Walaikum, I'm Tahiya Tasnim!** ໒꒱ ‧₊˚
 
