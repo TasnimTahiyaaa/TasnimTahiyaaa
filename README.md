@@ -178,9 +178,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TasnimTahiyaaa&show_icons=true&theme=radical&hide_border=true&border_radius=15&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimTahiyaaa&layout=compact&theme=radical&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -194,17 +192,6 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 ---
 
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TasnimTahiyaaa/TasnimTahiyaaa/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
-</div>
-
-> 💜 *If the snake isn't showing, don't panic! You need to set up the GitHub Actions workflow for it first.*
-
----
 
 ## 🌱 Currently Growing
 
