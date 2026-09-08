@@ -237,6 +237,10 @@ A management system for handling medicine inventory, orders and pharmacy-related
 <img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<a href="https://www.instagram.com/in/https://www.instagram.com/neutral.san">
+<img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
 </div>
 
 ---
