@@ -215,7 +215,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODgzYmhoYmxydnA3aGVwOHBicXdrNm1nNWp1YmFsM3NhZmJwMG03YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Jhqm46zFre5HKy6Qko/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzN1bHc3amRwNWN3b25kcWw0Zm8zMjhxbzZzcnB2YTZjOGo4cGp1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iMD6XHjzcIfAIxO9iM/giphy.gif" width="250">
 
 </div>
 
