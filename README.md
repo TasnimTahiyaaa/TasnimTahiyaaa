@@ -207,7 +207,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 ---
 
-🎮 Outside the Code
+## 🎮 Outside the Code
 
 <div align="center">
 
@@ -215,7 +215,7 @@ A management system for handling medicine inventory, orders and pharmacy-related
 
 <br><br>
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODgzYmhoYmxydnA3aGVwOHBicXdrNm1nNWp1YmFsM3NhZmJwMG03YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Jhqm46zFre5HKy6Qko/giphy.gif" width="250">
 
 </div>
 
